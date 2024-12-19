@@ -9,15 +9,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  about me</h3>
 
 ###
 
-<p align="left">I'm an undergraduate Computer Engineering student from Northern Virginia. My background drives my interest in creating technologies that enhance awareness and accessibility for diverse communities.<br><br>- 🔭 I’m working to...<br>Research community-oriented systems and technologies for equity and accessibility.<br><br>Innovate privacy mechanisms for augmented reality (AR) eye-tracking applications.<br><br>📚 I'm currently learning about...<br>Physical Electronics: Fundamentals of electrostatics, magnetostatics, and transmission lines, including impedance matching networks.<br><br>Integrated Design Project: Designing, implementing, and validating hardware and software solutions to open-ended engineering problems, leveraging industrial-caliber equipment.<br><br>Embedded Systems: Real-time programming, hardware abstraction, and integration of sensors and actuators for microcontroller-based systems.<br><br><br>- ⚡ In my free time I...<br>Explore music, volunteer, and engage in research-driven activities to make a meaningful impact in my community. I also like to bake and hike!<br><br>feel free to email me: nissiooto@vt.edu</p>
+<p align="left">i'm an undergraduate computer engineering student from northern virginia. my background drives my interest in creating technologies that enhance awareness and accessibility for diverse communities.<br><br>- 🔭 i’m working to...<br>research community-oriented systems and technologies for equity and accessibility.<br><br>innovate privacy mechanisms for augmented reality (ar) eye-tracking applications.<br><br>📚 i'm currently learning about...<br>physical electronics: fundamentals of electrostatics, magnetostatics, and transmission lines, including impedance matching networks.<br><br>integrated design project: designing, implementing, and validating hardware and software solutions to open-ended engineering problems, leveraging industrial-caliber equipment.<br><br>embedded systems: real-time programming, hardware abstraction, and integration of sensors and actuators for microcontroller-based systems.<br><br><br>- ⚡ in my free time i...<br>explore music, volunteer, and engage in research-driven activities to make a meaningful impact in my community. i also like to bake and hike!<br><br>feel free to email me: nissiooto@vt.edu</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 language and tools</h3>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   my stats :</h3>
 
 ###
 
