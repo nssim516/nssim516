@@ -18,7 +18,7 @@
 <br>- innovate privacy mechanisms for augmented reality (ar) eye-tracking applications.<br>
 <br><strong>📚 i'm currently learning about...</strong><br>- physical electronics: fundamentals of electrostatics, magnetostatics, and transmission lines, including impedance matching networks.<br><br>- integrated design project: designing, implementing, and validating hardware and software solutions to open-ended engineering problems, leveraging industrial-caliber equipment.<br><br>- embedded systems: real-time programming, hardware abstraction, and integration of sensors and actuators for microcontroller-based systems.<br>
 <br><br><strong>- ⚡ in my free time i...</strong><br>explore music, volunteer, and engage in research-driven activities to make a meaningful impact in my community. i also like to bake and hike!<br>
-<br>feel free to email me: nissiooto@vt.edu</p>
+<br>feel free to email me: <a href="mailto:nissiotoo@vt.edu">nissiooto@vt.edu</a></p>
 
 ###
 
