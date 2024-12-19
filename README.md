@@ -54,6 +54,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nssim516/nssim516/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/nssim516/nssim516/blob/main/snake.yml" alt="Snake animation" />
 
 ###
