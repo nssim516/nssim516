@@ -16,7 +16,7 @@
 <p align="left">i'm an undergraduate computer engineering student from northern virginia. my background drives my interest in creating technologies that enhance awareness and accessibility for diverse communities.<br>
 <br><strong>🔭 i’m working to...</strong><br>- research community-oriented systems and technologies for equity and accessibility.<br>
 <br>- innovate privacy mechanisms for augmented reality (ar) eye-tracking applications.<br>
-<br><strong>📚 i'm currently learning about...</strong><br>- physical electronics: fundamentals of electrostatics, magnetostatics, and transmission lines, including impedance matching networks.<br><br>- integrated design project: designing, implementing, and validating hardware and software solutions to open-ended engineering problems, leveraging industrial-caliber equipment.<br><br>- embedded systems: real-time programming, hardware abstraction, and integration of sensors and actuators for microcontroller-based systems.<br>
+<br><strong>📚 i'm currently learning about...</strong><br>- machine learning foundations: algorithms like k-nearest neighbors and decision trees, including model comparison, hyperparameters, and overfitting prevention<br> <br>- data prep and visualization:  including cleaning data, identifying outliers, and using tools like NumPy, Pandas, and Seaborn<br>
 <br><br><strong>⚡ in my free time i...</strong><br>- explore music, volunteer, bake and hike!<br>
 <br>feel free to email me: <a href="mailto:nissiotoo@vt.edu">nissiooto@vt.edu</a></p>
 
