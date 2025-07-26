@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">i'm a 3rd-year computer engineering student at virginia tech. my background drives my interest in creating technologies that enhance awareness and accessibility for diverse communities.i love tackling real-world problems through data analysis and predictive modeling. i’m big on continuously learning and building my skills, and believe taking initiative is key to growth. (ask me about growing my technical skills and leadership as a breakthrough tech fellow!) currently, i'm focusing on building machine learning models and diving deeper into data science.<br>
+<p align="left">i'm a 3rd-year computer engineering student at virginia tech. my background drives my interest in creating technologies that enhance awareness and accessibility for diverse communities. i love tackling real-world problems through data analysis and predictive modeling. i’m big on continuously learning and building my skills, and believe taking initiative is key to growth. currently, i'm focusing on building machine learning models and diving deeper into data science.<br>
 <br><strong>🔭 i’m working to...</strong><br>- research community-oriented systems and technologies for equity and accessibility.<br>
 <br>- innovate privacy mechanisms for augmented reality (ar) eye-tracking applications.<br>
 <br><strong>📚 i'm currently learning about...</strong><br>- machine learning foundations: algorithms like k-nearest neighbors and decision trees, including model comparison, hyperparameters, and overfitting prevention<br> <br>- data prep and visualization:  including cleaning data, identifying outliers, and using tools like NumPy, Pandas, and Seaborn<br>
