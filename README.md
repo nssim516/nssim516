@@ -27,19 +27,20 @@
 <h3 align="left">🛠 language and tools</h3>
 
 <h3 align="left">⭐ key projects</h3>
-##⭐ key projects
 
 | project                                   | skills & tech                                                                | repo link     |
 |-------------------------------------------|-------------------------------------------------------------------------------|---------------|
-| **aurelia – inclusive facial recognition** | python, tensorflow, cnn, javascript, html/css, social impact                 | [repo link]   |
-| **salesforce ai sales chatbot**           | python, chromadb, faiss, vector db, gemini api, rag                          | [repo link]   |
-| **vinyasa – women’s wellness app**        | reactjs, figma, css/html, ui/ux design                                       | [repo link]   |
-| **airbnb review score prediction pipeline** | python, gradient boosting, gridsearchcv, feature engineering                  | [repo link]   |
-| **logistic regression from scratch**      | python, numpy, newton–raphson, gradient descent                              | [repo link]   |
-| **neural network sentiment analysis**     | python, keras, tf-idf, nlp, text classification                              | [repo link]   |
-| **handwritten digit classification cnn**  | python, keras, convolutional neural networks, image processing               | [repo link]   |
-| **regression model comparison study**     | python, scikit-learn, random forest, ensemble methods                        | [repo link]   |
+| **aurelia – facial recognition** | python, tensorflow, cnn, javascript, html/css, web dev                 | [[repo link](https://github.com/nssim516/VTHacksJAN) |
+| **salesforce ai sales chatbot**           | python, chromadb, faiss, vector db, gemini api, rag                          | [repo link](https://github.com/ishween/Team2B/tree/nissiotoo-2B) |
+| **vinyasa – yoga wellness app**        | reactjs, figma, css/html, ui/ux design                                       | [repo link](https://github.com/nssim516/vinyasa-yoga) |
+| **airbnb review score ml pipeline** | python, gradient boosting decision tree (gbdt), gridsearchcv, feature engineering  | [repo link](https://github.com/nssim516/ml-gbdt-full-pipeline) |
+| **logistic regression from scratch**      | python, numpy, newton–raphson, gradient descent                              | [repo link](https://github.com/nssim516/ml-log-reg-building) |
+| **neural network sentiment analysis**     | python, keras, tf-idf, nlp, text classification                              | [repo link](https://github.com/nssim516/ml-nn-sentiment-analysis) |
+| **handwritten digit classification cnn**  | python, keras, convolutional neural networks, image processing               | [repo link](https://github.com/nssim516/ml-cnn-handwriting-classification) |
+| **regression model comparison**           | python, scikit-learn, random forest, ensemble methods                        | [repo link](https://github.com/nssim516/ml-regression-model-comparison) |
 | **mips processor simulation**             | verilog, computer architecture, pipeline design                              | [repo link]   |
+| **rgb color mixer (msp432 microcontroller)**   | embedded c, analog-to-digital, pulse-width modulation, lcd graphics, finite-state machines | [private link]|
+| **color runner game (msp432 microcontroller)** | embedded c, game dev, collision detection, software timers | [private link]|
 
 *more ml and computer engineering projects are available on my profile!*
 
