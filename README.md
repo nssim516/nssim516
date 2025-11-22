@@ -56,17 +56,18 @@
 
 | Project                                   | Skills & Tech                                                                | Repo Link     |
 |-------------------------------------------|-------------------------------------------------------------------------------|---------------|
-| **Aurelia – Facial Recognition** | Python, TensorFlow, CNN, JavaScript, HTML/CSS, Web Dev                 | [[repo link](https://github.com/nssim516/VTHacksJAN) |
-| **Salesforce AI Sales Chatbot**           | Python, ChromaDB, FAISS, Vector DB, Gemini API, RAG                          | [repo link](https://github.com/ishween/Team2B/tree/nissiotoo-2B) |
-| **Vinyasa – Yoga Wellness App**        | ReactJS, Figma, CSS/HTML, UI/UX Design                                       | [repo link](https://github.com/nssim516/vinyasa-yoga) |
-| **Airbnb Review Score ML Pipeline** | Python, Gradient Boosting Decision Tree (GBDT), GridSearchCV, Feature Engineering  | [repo link](https://github.com/nssim516/ml-gbdt-full-pipeline) |
-| **Logistic Regression From Scratch**      | Python, NumPy, Newton–Raphson, Gradient Descent                              | [repo link](https://github.com/nssim516/ml-log-reg-building) |
-| **Neural Network Sentiment Analysis**     | Python, Keras, TF-IDF, NLP, Text Classification                              | [repo link](https://github.com/nssim516/ml-nn-sentiment-analysis) |
-| **Handwritten Digit Classification CNN**  | Python, Keras, Convolutional Neural Networks, Image Processing               | [repo link](https://github.com/nssim516/ml-cnn-handwriting-classification) |
-| **Regression Model Comparison**           | Python, Scikit-Learn, Random Forest, Ensemble Methods                        | [repo link](https://github.com/nssim516/ml-regression-model-comparison) |
-| **MIPS Processor Simulation**             | Verilog, Computer Architecture, Pipeline Design                              | [repo link]   |
-| **RGB Color Mixer (MSP432 Microcontroller)**   | Embedded C, Analog-to-Digital, Pulse-Width Modulation, LCD Graphics, Finite-State Machines | [private link]|
-| **Color Runner Game (MSP432 Microcontroller)** | Embedded C, Game Dev, Collision Detection, Software Timers | [private link]|
+| **Aurelia – Facial Recognition** | Python, TensorFlow, CNN, JavaScript, HTML/CSS, Web Dev                 | [Repo Link](https://github.com/nssim516/VTHacksJAN) |
+| **Salesforce AI Sales Chatbot**           | Python, ChromaDB, FAISS, Vector DB, Gemini API, RAG                          | [Repo Link](https://github.com/ishween/Team2B/tree/nissiotoo-2B) |
+| **Vinyasa – Yoga Wellness App**        | ReactJS, Figma, CSS/HTML, UI/UX Design                                       | [Repo Link](https://github.com/nssim516/vinyasa-yoga) |
+| **Airbnb Review Score ML Pipeline** | Python, Gradient Boosting Decision Tree (GBDT), GridSearchCV, Feature Engineering  | [Repo Link](https://github.com/nssim516/ml-gbdt-full-pipeline) |
+| **Logistic Regression From Scratch**      | Python, NumPy, Newton–Raphson, Gradient Descent                              | [Repo Link](https://github.com/nssim516/ml-log-reg-building) |
+| **Neural Network Sentiment Analysis**     | Python, Keras, TF-IDF, NLP, Text Classification                              | [Repo Link](https://github.com/nssim516/ml-nn-sentiment-analysis) |
+| **Handwritten Digit Classification CNN**  | Python, Keras, Convolutional Neural Networks, Image Processing               | [Repo Link](https://github.com/nssim516/ml-cnn-handwriting-classification) |
+| **Regression Model Comparison**           | Python, Scikit-Learn, Random Forest, Ensemble Methods                        | [Repo Link](https://github.com/nssim516/ml-regression-model-comparison) |
+| **MIPS Processor Simulation**             | Verilog, Computer Architecture, Pipeline Design                              | Private Link   |
+| **RGB Color Mixer (MSP432 Microcontroller)**   | Embedded C, Analog-to-Digital, Pulse-Width Modulation, LCD Graphics, Finite-State Machines | Private Link|
+| **Color Runner Game (MSP432 Microcontroller)** | Embedded C, Game Dev, Collision Detection, Software Timers | Private Link|
+
 
 *More ML and Computer Engineering projects are available on my profile!*
 
