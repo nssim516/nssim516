@@ -26,6 +26,23 @@
 
 <h3 align="left">🛠 language and tools</h3>
 
+<h3 align="left">⭐ key projects</h3>
+##⭐ key projects
+
+| project                                   | skills & tech                                                                | repo link     |
+|-------------------------------------------|-------------------------------------------------------------------------------|---------------|
+| **aurelia – inclusive facial recognition** | python, tensorflow, cnn, javascript, html/css, social impact                 | [repo link]   |
+| **salesforce ai sales chatbot**           | python, chromadb, faiss, vector db, gemini api, rag                          | [repo link]   |
+| **vinyasa – women’s wellness app**        | reactjs, figma, css/html, ui/ux design                                       | [repo link]   |
+| **airbnb review score prediction pipeline** | python, gradient boosting, gridsearchcv, feature engineering                  | [repo link]   |
+| **logistic regression from scratch**      | python, numpy, newton–raphson, gradient descent                              | [repo link]   |
+| **neural network sentiment analysis**     | python, keras, tf-idf, nlp, text classification                              | [repo link]   |
+| **handwritten digit classification cnn**  | python, keras, convolutional neural networks, image processing               | [repo link]   |
+| **regression model comparison study**     | python, scikit-learn, random forest, ensemble methods                        | [repo link]   |
+| **mips processor simulation**             | verilog, computer architecture, pipeline design                              | [repo link]   |
+
+*more ml and computer engineering projects are available on my profile!*
+
 ###
 
 <div align="left">
