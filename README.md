@@ -13,11 +13,11 @@
 
 ###
 
-<p align="left">I'm a 3rd-year Computer Engineering student at Virginia Tech. My background drives my interest in creating technologies that enhance awareness and accessibility for diverse communities. I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. Currently, I'm focusing on building machine learning models and diving deeper into data science.<br>
+<p align="left">I'm a 4th-year Computer Engineering student at Virginia Tech. My background drives my interest in creating technologies that enhance awareness and accessibility for diverse communities. I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. Currently, I'm focusing on building machine learning models and diving deeper into data science.<br>
   
 <br><strong>🔭 I’m Working To...</strong><br>- Research community-oriented systems and technologies for equity and accessibility.<br>- Innovate privacy mechanisms for augmented reality (AR) eye-tracking applications.<br>
 
-<br><strong>📰 Check Out My Publications:</strong><br>- [Visceral Notices and Privacy Mechanisms for Eye Tracking in Augmented Reality](https://ieeexplore.ieee.org/document/11192605), IEEE ISMAR 2025<br>- [Technology Use in the Black Church: Perspectives of Black Church Leaders](https://dl.acm.org/doi/10.1145/3678884.3681855), CSCW 2024
+<br><strong>📰 Check Out My Publications:</strong><br>- [Understanding Digital Religion in the Lives of Black Christian Young Adults](https://dl.acm.org/doi/full/10.1145/3772318.3790509), ACM CHI 2026<br>- [Visceral Notices and Privacy Mechanisms for Eye Tracking in Augmented Reality](https://ieeexplore.ieee.org/document/11192605), IEEE ISMAR 2025<br>- [Technology Use in the Black Church: Perspectives of Black Church Leaders](https://dl.acm.org/doi/10.1145/3678884.3681855), ACM CSCW 2024
 
 <br><strong>📚 I'm Currently Learning About...</strong><br>- Machine learning foundations: algorithms like K-Nearest Neighbors and Decision Trees, including model comparison, hyperparameters, and overfitting prevention<br>- Data prep and visualization: including cleaning data, identifying outliers, and using tools like NumPy, Pandas, and Seaborn<br>
 
