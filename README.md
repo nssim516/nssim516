@@ -22,7 +22,7 @@
 <br><strong>📚 I'm Currently Learning About...</strong><br>- Machine learning foundations: algorithms like K-Nearest Neighbors and Decision Trees, including model comparison, hyperparameters, and overfitting prevention<br>- Data prep and visualization: including cleaning data, identifying outliers, and using tools like NumPy, Pandas, and Seaborn<br>
 
 <br><strong>⚡ In My Free Time I...</strong><br>- Explore music, volunteer, bake and hike!<br>
-<br>Feel free to connect via [LinkedIn](https://www.linkedin.com/in/nissi-otoo/), email me at <a href="mailto:nissiotoo@vt.edu">nissiooto@vt.edu</a>, or check out my [Portfolio](https://nissiotoo.netlify.app/) and [DevPost](https://devpost.com/nssim516/).
+<br>Feel free to connect via [LinkedIn](https://www.linkedin.com/in/nissi-otoo/), email me at <a href="mailto:nissiotoo@vt.edu">nissiooto@vt.edu</a>, or check out my [Portfolio](https://www.nissiotoo.com/) and [DevPost](https://devpost.com/nssim516/).
 
 ###
 
