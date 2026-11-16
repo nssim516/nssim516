@@ -28,10 +28,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # pink and purple to match nissiotoo.com
+          # muted rose and lavender, based on nissiotoo.com
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#D63AAF&color_dots=#ebedf0,#F6BBF6,#DBA0F5,#A56AF2,#8A4FF0
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#F6BBF6&color_dots=#161b22,#3B2470,#5E37B0,#8A4FF0,#C085F3
+            dist/github-contribution-grid-snake.svg?color_snake=#B07AA1&color_dots=#ebedf0,#E8D5E3,#CDB4D6,#A88FC6,#7A68A0
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#D9B8CF&color_dots=#161b22,#3A3350,#554A75,#7A68A0,#A88FC6
 
       # the snake walks one row outside the grid when it moves between targets;
       # crop each svg to the grid itself so it never shows outside its map
