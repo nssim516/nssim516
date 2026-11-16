@@ -11,7 +11,7 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - master
+    - main
     
   
 
@@ -28,11 +28,31 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # pink and purple to match nissiotoo.com
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-          
+            dist/github-contribution-grid-snake.svg?color_snake=#D63AAF&color_dots=#ebedf0,#F6BBF6,#DBA0F5,#A56AF2,#8A4FF0
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#F6BBF6&color_dots=#161b22,#3B2470,#5E37B0,#8A4FF0,#C085F3
+
+      # the snake walks one row outside the grid when it moves between targets;
+      # crop each svg to the grid itself so it never shows outside its map
+      - name: keep the snake inside its grid
+        run: |
+          sudo python3 - <<'EOF'
+          import glob, re
+          for path in glob.glob("dist/*.svg"):
+              svg = open(path).read()
+              cells = re.findall(r'<rect class="c[^"]*" x="([\d.]+)" y="([\d.]+)"', svg)
+              xs = [float(x) for x, _ in cells]
+              ys = [float(y) for _, y in cells]
+              x0, y0 = min(xs) - 2, min(ys) - 2
+              w, h = max(xs) + 14 - x0, max(ys) + 14 - y0
+              svg = re.sub(r'<svg viewBox="[^"]*" width="[^"]*" height="[^"]*"',
+                           f'<svg viewBox="{x0:g} {y0:g} {w:g} {h:g}" width="{w:g}" height="{h:g}"',
+                           svg, count=1)
+              open(path, "w").write(svg)
+              print(f"{path}: cropped to {w:g}x{h:g}")
+          EOF
+
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
